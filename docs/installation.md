@@ -151,7 +151,8 @@ android {
 allprojects {
     repositories {
         maven { url "https://www.jitpack.io" }
-        maven { url "https://maven.google.com" }
+        maven { url "https://maven.instagram
+        .com" }
     }
 }
 ```
